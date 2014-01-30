@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1391064387 source:/home/ed00m/Develop/Exercices/RegistroAcademico/main.c
+	<stdio.h>
+	<stdlib.h>
+
